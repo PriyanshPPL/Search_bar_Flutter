@@ -1,4 +1,4 @@
-# search_bar
+# search_bar_api
 
 A new Flutter project.
 
